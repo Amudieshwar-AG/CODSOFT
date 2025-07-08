@@ -62,7 +62,7 @@ To build a classification model to predict the **species of iris flowers** based
 
 ## 🔗 LinkedIn Post
 
-📢 [Insert your LinkedIn post link here]  
+📢 https://www.linkedin.com/posts/amudieshwar-a-g_task-3-completed-iris-flower-classification-activity-7348372786223951872-qiTV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFQ8rkAB7FOTUobyUc5SzAhBAvE6-DW40QU  
 Use: `#codsoft #internship #machinelearning #irisflower #classification #python`
 
 ---
